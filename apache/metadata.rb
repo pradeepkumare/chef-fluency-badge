@@ -4,8 +4,9 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
-version '0.2.1'
-chef_version '>= 12.1' if respond_to?(:chef_version)
+version '0.1.1'
+     
+ 
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
